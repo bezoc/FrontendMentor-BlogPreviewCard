@@ -19,8 +19,8 @@
 
 ### Links
 
-- Solution: [<https://github.com/bezoc/FrontendMentor-BlogPreviewCard)>]
-- Live Site: [https://bezoc.github.io/FrontendMentor-BlogPreviewCard/]
+- Solution: (https://github.com/bezoc/FrontendMentor-BlogPreviewCard)
+- Live Site: (https://bezoc.github.io/FrontendMentor-BlogPreviewCard/)
 ## My process
 
 ### Built with
