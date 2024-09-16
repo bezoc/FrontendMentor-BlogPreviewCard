@@ -15,13 +15,12 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot/Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution: [<https://github.com/bezoc/FrontendMentor-BlogPreviewCard)>]
+- Live Site: [https://bezoc.github.io/FrontendMentor-BlogPreviewCard/]
 ## My process
 
 ### Built with
